@@ -1,1 +1,1 @@
-#Matlab code to perform semisupervised learning of nonlinear dynamics 
+Matlab code to perform semisupervised learning of nonlinear dynamics 
